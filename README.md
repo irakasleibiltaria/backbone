@@ -1,4 +1,8 @@
 backbone
 ========
 
-backbone.js fundamentals
+backbone.js fundamentals:
+
+http://addyosmani.github.io/backbone-fundamentals/
+
+
