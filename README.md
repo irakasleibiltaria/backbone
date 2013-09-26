@@ -7,6 +7,10 @@ backbone.js fundamentals:
 
 http://addyosmani.github.io/backbone-fundamentals/
 
+comparative:
+
+http://sporto.github.io/blog/2013/04/12/comparison-angular-backbone-can-ember/
+
 ###Books:
 
 [Eloquent JavaScript](http://eloquentjavascript.net/)
