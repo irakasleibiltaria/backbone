@@ -9,7 +9,7 @@ http://sporto.github.io/blog/2013/04/12/comparison-angular-backbone-can-ember/
 
 ###Books:
 
-[backbone.js fundamentals](http://addyosmani.github.io/backbone-fundamentals/)
+[Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 
 [Eloquent JavaScript](http://eloquentjavascript.net/)
 
@@ -21,4 +21,10 @@ http://sporto.github.io/blog/2013/04/12/comparison-angular-backbone-can-ember/
 
 [Object-Oriented JavaScript by Stoyan Stefanov (Packt Publishing)](http://www.amazon.com/Object-Oriented-Javascript-Stoyan-Stefanov/dp/1847194141)
 
+
+###Developing Backbone.js Applications (book notes)
+
+##MVC (Model - View - Controller)
+
+Thus, in an MVC application, user input is acted upon by Controllers which update Models. Views observe Models and update the user interface when changes occur.
 
