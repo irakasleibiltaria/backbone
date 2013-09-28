@@ -3,15 +3,13 @@ backbone
 
 http://backbonejs.org/
 
-backbone.js fundamentals:
-
-http://addyosmani.github.io/backbone-fundamentals/
-
 comparative:
 
 http://sporto.github.io/blog/2013/04/12/comparison-angular-backbone-can-ember/
 
 ###Books:
+
+[backbone.js fundamentals](http://addyosmani.github.io/backbone-fundamentals/)
 
 [Eloquent JavaScript](http://eloquentjavascript.net/)
 
